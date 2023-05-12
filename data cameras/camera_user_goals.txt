@@ -1,0 +1,211 @@
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1997'", 'Max resolution': "'1024.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1996'", 'Max resolution': "'832.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'1600.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'", 'Max resolution': "'1024.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'3264.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'", 'Max resolution': "'2272.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'4064.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'3888.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'3072.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'", 'Max resolution': "'2592.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'", 'Max resolution': "'2272.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'", 'Max resolution': "'3264.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2048.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2272.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'", 'Max resolution': "'3264.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'3072.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'", 'Max resolution': "'2560.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2560.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'3072.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'", 'Max resolution': "'1600.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'", 'Max resolution': "'2048.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1998'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'", 'Max resolution': "'2304.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1997'", 'Max resolution': "'640.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1998'", 'Max resolution': "'1280.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2304.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'", 'Max resolution': "'1280.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'", 'Max resolution': "'2048.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2272.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'2592.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'", 'Max resolution': "'2592.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'2832.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'3488.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'", 'Max resolution': "'1800.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1998'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'2272.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1998'", 'Max resolution': "'1152.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2320.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'2864.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'", 'Max resolution': "'3112.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'", 'Max resolution': "'2032.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'", 'Max resolution': "'2576.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'2576.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'", 'Max resolution': "'1632.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2032.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2000'", 'Max resolution': "'2160.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1999'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'1998'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2001'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2003'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'", 'Max resolution': "'2576.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2002'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2004'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2005'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2006'", 'Max resolution': "'2569.0'"}}
+{'request_slots': {}, 'diaact': 'request', 'inform_slots': {'Release date': "'2007'", 'Max resolution': "'4000.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'7.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2576.0'", 'Effective pixels': "'5.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1024.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1600.0'", 'Effective pixels': "'4.0'", 'Zoom wide (W)': "'37.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1024.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1600.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1600.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'33.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'640.0'", 'Effective pixels': "'1.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'3264.0'", 'Effective pixels': "'10.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1024.0'", 'Effective pixels': "'1.0'", 'Zoom wide (W)': "'36.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1600.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2048.0'", 'Effective pixels': "'3.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1600.0'", 'Effective pixels': "'4.0'", 'Zoom wide (W)': "'36.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2048.0'", 'Effective pixels': "'5.0'", 'Zoom wide (W)': "'34.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'640.0'", 'Effective pixels': "'1.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'640.0'", 'Effective pixels': "'1.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'8.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'1024.0'", 'Effective pixels': "'1.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2048.0'", 'Effective pixels': "'4.0'", 'Zoom wide (W)': "'37.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'8.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'7.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'8.0'", 'Zoom wide (W)': "'36.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'3264.0'", 'Effective pixels': "'12.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'7.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2592.0'", 'Effective pixels': "'7.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'3200.0'", 'Effective pixels': "'8.0'", 'Zoom wide (W)': "'35.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'2048.0'", 'Effective pixels': "'6.0'", 'Zoom wide (W)': "'38.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Low resolution': "'0.0'", 'Effective pixels': "'2.0'", 'Zoom wide (W)': "'0.0'"}}
+                                                           {'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'35.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'80.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'38.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'100.0'", 'Normal focus range': "'80.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'32.0'", 'Zoom tele (T)': "'96.0'", 'Normal focus range': "'80.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'80.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'40.0'", 'Zoom tele (T)': "'320.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'380.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'36.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'35.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'35.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'50.0'", 'Zoom tele (T)': "'150.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'110.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'140.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'106.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'32.0'", 'Zoom tele (T)': "'96.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'140.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'20.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'380.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'70.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'504.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'420.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'432.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'90.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'222.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'222.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'42.0'", 'Zoom tele (T)': "'42.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'0.0'", 'Zoom tele (T)': "'0.0'", 'Normal focus range': "'0.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'111.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'111.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'32.0'", 'Zoom tele (T)': "'96.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'187.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'34.0'", 'Zoom tele (T)': "'102.0'", 'Normal focus range': "'50.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'70.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'37.0'", 'Zoom tele (T)': "'370.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'107.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'107.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'36.0'", 'Zoom tele (T)': "'180.0'", 'Normal focus range': "'60.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'112.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'40.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'85.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'160.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'200.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'38.0'", 'Zoom tele (T)': "'114.0'", 'Normal focus range': "'4.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'40.0'", 'Zoom tele (T)': "'40.0'", 'Normal focus range': "'30.0'"}}
+{'request_slots': {'Release date': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'35.0'", 'Zoom tele (T)': "'105.0'", 'Normal focus range': "'24.0'"}}
+{'request_slots': {'Release date': 'UNK', 'Max resolution': 'UNK'}, 'diaact': 'request', 'inform_slots': {'Zoom wide (W)': "'28.0'", 'Zoom tele (T)': "'135.0'", 'Normal focus range': "'60.0'"}}
